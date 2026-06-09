@@ -1,1 +1,1 @@
-# Preprints
+This is an anonymized repository for double-blind reviews of papers submitted to KEOD 2026. Since the papers reference eachother anonymized preprints need to be made available to the reviewers. Once the reviews have been completed, this repository will be deleted and the references in the papers will be modified.
